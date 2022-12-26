@@ -1,2 +1,1 @@
-# Sistem Informasi Organisasi
- 
+# Sistem-Informasi-Organisasi
